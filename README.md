@@ -1,4 +1,4 @@
-# course_app
+# Course App UI Concept
 
 A new Flutter project.
 
